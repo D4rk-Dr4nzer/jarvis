@@ -13,22 +13,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sparroo%2Fjarvis&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 </details>
-
-### THANKS TO SPARROW
-
-### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-```bash
-> Download termux app from playstore
-> termux-setup-storage
-> apt-get update -y
-> apt-get upgrade -y
-> pkg install git -y
-> pkg install bash -y
-> pkg install mc -y
-> git clone https://github.com/sparroo/jarvis
-> cd jarvis
-> bash install.sh
-> npm start
 > SCAN THE QR CODE
 ```
 
@@ -41,7 +25,7 @@
 * [`SPARROW`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
-### `--server`
 
-Deploy to [heroku](https://heroku.com/) 
+
+
 
